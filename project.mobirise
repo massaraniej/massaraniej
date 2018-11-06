@@ -6808,7 +6808,7 @@
                 "title": "\n<div><br></div><div>\n</div><div>CAPTAÇÃO DA ÁGUA DA CHUVA</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "A instalação de um sistema de captação é uma atitude ecologicamente correta, que ajuda a preservar recursos hídricos. Ainda, se tem uma redução entre 40 e 50% na conta de água mensal.",
+                "text": "A instalação de um sistema de captação é uma atitude ecologicamente correta, que ajuda a preservar recursos hídricos. Ainda, pode-se atingir uma redução de até 40% na conta de água mensal.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"captaçãodaágua.html\" data-toolbar=\"-mbrBtnMove\">MAIS SOBRE</a>"
               },
               {
@@ -6825,7 +6825,7 @@
                 "title": "\n<div><br></div><div>\n</div><div>OTIMIZAÇÃO DE ESPAÇO FÍSICO</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "A otimização de layout de uma empresa tem como objetivo proporcionar maior eficiência nos serviços prestados.",
+                "text": "A otimização de layout de uma empresa tem como objetivo proporcionar maior eficiência nos serviços prestados, otimizando desde o tempo de produção à disposição do ambiente de trabalho.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"otimizaçãodeespaço.html\" data-toolbar=\"-mbrBtnMove\">MAIS SOBRE</a>"
               }
             ]
